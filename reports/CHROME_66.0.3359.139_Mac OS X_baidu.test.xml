@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="1">
+
+  <testsuite name="baidu.test"
+    errors="0" failures="0" hostname="" id="" package="baidu.test" skipped="0"
+    tests="1" time="4.419" timestamp="Sat, 28 Apr 2018 02:33:33 GMT">
+  
+    <testcase name="百度一下，你就知道" classname="baidu.test" time="4.419" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>
