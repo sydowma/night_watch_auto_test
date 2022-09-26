@@ -6,7 +6,7 @@
   "dependencies": {
     "chromedriver": "^2.38.2",
     "geckodriver": "^1.11.0",
-    "nightwatch": "^0.9.21",
+    "nightwatch": "^2.3.9",
     "selenium-server": "^3.11.0"
   },
   "devDependencies": {},
